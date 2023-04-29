@@ -12,7 +12,7 @@
 - Install required packages
     `pip install -r requirements.txt`
 
-- Run python file
+- Run python file<br>
     `python api_solution.py` and open ***api_result.json*** file<br>
     or<br>
     `python scraping_solution.py` and open ***scrape_result.json*** file
