@@ -1,0 +1,6 @@
+*.html
+env
+*.json
+markets.txt
+roles.txt
+__pycache__
