@@ -7,9 +7,10 @@
 
 - Navigate to the cloned repository using the `cd` command
     `cd hhscraper`
-
+- Create virtual environment and activate(Optional)
+    
 - Install required packages
-    `python -m requirements.txt`
+    `pip install -r requirements.txt`
 
 - Run python file
     `python api_solution.py` and open ***api_result.json*** file<br>
