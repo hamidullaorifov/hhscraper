@@ -14,8 +14,8 @@
 
 - Run python file
     `python api_solution.py` and open ***api_result.json*** file<br>
-    or
-    `python scraping_solution.py` and open ***scrape_result.json*** file<br>
+    or<br>
+    `python scraping_solution.py` and open ***scrape_result.json*** file
 
 
 
